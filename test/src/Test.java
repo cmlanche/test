@@ -44,6 +44,7 @@ public class Test {
 			System.out.print(b[i]+" ");
 		}
 		
+		System.out.println("test");
 	}
 
 }
